@@ -1,0 +1,31 @@
+iOS页面传值方式
+
+1.	属性Property正向传值
+a.	栈视图（纵向视图）之间（如UINavigationController管理的ViewControllers）
+2.	代理Delegate反向传值方式
+a.	栈视图（纵向视图）之间如UINavigationController管理的ViewControllers），代码实现方式
+https://github.com/cquxutao/YMCZD0.git
+
+b.	栈视图（纵向视图）之间如UINavigationController管理的ViewControllers），UIStoryBoard  Segue跳转实现方式
+https://github.com/cquxutao/YMCZD1.git
+
+c.	平级视图之间（如Tab bar Application之间的ViewControllers）
+https://github.com/cquxutao/YMCZD2.git
+
+3.	块Block反向传值方式
+a.	栈视图（纵向视图）之间（如UINavigationController管理的ViewControllers）, 代码实现方式
+https://github.com/cquxutao/YMCZB0.git
+
+b.	栈视图（纵向视图）之间如UINavigationController管理的ViewControllers），UIStoryBoard  Segue跳转实现方式
+https://github.com/cquxutao/YMCZB1.git
+
+c.	平级视图之间（如Tab bar Application之间的ViewControllers）
+https://github.com/cquxutao/YMCZB2.git
+
+4.	单例Singleton模式
+a.	栈视图（纵向视图）之间
+b.	平级视图之间
+5.	通知Notifications方式
+a.	栈视图（纵向视图）之间
+b.	平级视图之间
+
